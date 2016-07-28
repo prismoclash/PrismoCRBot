@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\FrameBuffer\0]
+"WindowWidth"=dword:000001F4
+"WindowHeight"=dword:000002dc
+"GuestWidth"=dword:000001F4
+"GuestHeight"=dword:000002dc
+"Depth"=dword:00000010
+"FullScreen"=dword:00000000
+"WindowState"=dword:00000001
+"HideBootProgress"=dword:00000001
